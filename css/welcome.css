@@ -1,0 +1,19 @@
+* { 
+    font-family: 'Battambang', cursive;
+}
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: rgba(26, 187, 179, 0.5);
+    flex-direction: column;
+    background: url('../images/bgs.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+a {
+    color:teal;
+    text-decoration: underline;
+}
